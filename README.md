@@ -54,9 +54,13 @@ AI workflow automation improves efficiency by reducing operational friction.
 Benefits include:
 
 ✅ Faster workflow execution
+
 ✅ Reduced manual effort
+
 ✅ Improved productivity
+
 ✅ Better operational efficiency
+
 ✅ Scalable business systems
 
 These improvements support long-term growth.
