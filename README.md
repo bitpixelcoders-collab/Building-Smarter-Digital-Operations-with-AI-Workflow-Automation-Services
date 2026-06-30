@@ -148,8 +148,11 @@ AI Workflow Automation helps standardize execution.
 Benefits include:
 
 ✅ Better consistency
+
 ✅ Improved visibility
+
 ✅ Reduced rework
+
 ✅ More reliable outcomes
 
 Consistency improves efficiency.
@@ -224,7 +227,9 @@ AI-powered workflows improve visibility through:
 Benefits include:
 
 ✅ Better coordination
+
 ✅ Faster issue resolution
+
 ✅ Continuous optimization
 
 Visibility supports efficiency.
